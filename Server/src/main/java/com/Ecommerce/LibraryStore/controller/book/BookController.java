@@ -1,4 +1,4 @@
-package com.Ecommerce.LibraryStore.api.controller.book;
+package com.Ecommerce.LibraryStore.controller.auth.book;
 
 
 import com.Ecommerce.LibraryStore.model.Book;

@@ -1,4 +1,4 @@
-package com.Ecommerce.LibraryStore.api.model;
+package com.Ecommerce.LibraryStore.dto;
 
 public class LoginResponse {
     private String jwt;

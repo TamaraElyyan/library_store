@@ -1,6 +1,6 @@
 package com.Ecommerce.LibraryStore.service;
-import com.Ecommerce.LibraryStore.api.model.LoginBody;
-import com.Ecommerce.LibraryStore.api.model.RegistrationBody;
+import com.Ecommerce.LibraryStore.dto.LoginBody;
+import com.Ecommerce.LibraryStore.dto.RegistrationBody;
 import com.Ecommerce.LibraryStore.exception.UserAlreadyExistsException;
 import com.Ecommerce.LibraryStore.model.LocalUser;
 import com.Ecommerce.LibraryStore.model.dao.LocalUserDAO;
